@@ -420,7 +420,7 @@ Up to date
 
 ```plaintext
     📂 haskell-practice
-👉  └── 📂haskell-project
+👉  └── 📂 haskell-project
 ```
 
 Input:  
